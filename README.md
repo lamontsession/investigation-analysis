@@ -1,8 +1,8 @@
 # investigation-analysis
 
-This repo provides a walkthrough on the most enlightening cyber security investigations I have worked on throughout my cyber security career. These investigations cover a wide range of topics, including malware analysis, network forensics, and incident response. 
+This repo provides a walkthrough on the most enlightening cyber security investigations I have worked on throughout my cyber security career. These investigations cover a wide range of topics, including malware analysis, network forensics, and incident response.
 
-Each investigation is presented in a detailed and structured manner, highlighting the key findings, methodologies used, and lessons learned. The goal of this repository is to share knowledge and insights gained from real-world cyber security investigations, helping others to understand the complexities of cyber threats and how to effectively respond to them. 
+Each investigation is presented in a detailed and structured manner, highlighting the key findings, methodologies used, and lessons learned. The goal of this repository is to share knowledge and insights gained from real-world cyber security investigations, helping others to understand the complexities of cyber threats and how to effectively respond to them.
 
 Whether you are a seasoned cyber security professional or just starting out in the field, this repository offers valuable insights and practical examples to enhance your understanding of cyber security investigations.
 
